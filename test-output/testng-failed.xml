@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="in.eassignments_Test.TestEmployer_Post_Requirement_Exe">
+        <methods>
+          <include name="E_log"/>
+          <include name="precondition"/>
+          <include name="post_requirement"/>
+          <include name="view_reqmnt"/>
+        </methods>
+      </class> <!-- in.eassignments_Test.TestEmployer_Post_Requirement_Exe -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

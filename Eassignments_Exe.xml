@@ -1,0 +1,11 @@
+
+<suite name="Suite2" >
+  <test name="Test2">
+    <classes>
+      <class name="com.webdriver.Eassignments_Exe"/>
+      <methods>
+      <include name="Employer_Log"></include>
+      </methods>
+    </classes>
+  </test>
+</suite> 
